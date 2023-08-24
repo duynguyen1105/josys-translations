@@ -10,7 +10,7 @@ To handle translations for `josys-ui` and `josys-cami-forms`.
 
 ## **`translations` folder**
 
-This folder contains all the json files which named by the format `[appName].json`, theirs structure is like:
+This folder contains all the json files which named by the format `[appName].json`, theirs structure are like:
 
 ```json
 {
@@ -48,4 +48,5 @@ There are 2 options for this feature:
 
 ### 3. Update translations
 
-Please be careful when using this features because it will modify the values if the keys are already exist. And the usage is similar with `Add translations`
+- Please be careful when using this features because it will modify the values if the keys are already exist. And the usage is similar with `Add translations`.
+- To delete a pair, set its value `null`
