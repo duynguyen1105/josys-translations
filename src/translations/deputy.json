@@ -1,0 +1,14 @@
+{
+  "en": {
+    "common.appDetail.provision.managedApp.deputy.flexColumn.createdAt": "Created At",
+    "common.appDetail.provision.managedApp.deputy.flexColumn.updatedAt": "Updated At",
+    "models.employeeIdentities.deputy_uuid.label": "Deputy",
+    "models.employeeIdentities.deputy_uuid.placeholder": "Deputy Account ID"
+  },
+  "ja": {
+    "common.appDetail.provision.managedApp.deputy.flexColumn.createdAt": "作成日時",
+    "common.appDetail.provision.managedApp.deputy.flexColumn.updatedAt": "更新日時",
+    "models.employeeIdentities.deputy_uuid.label": "Deputy",
+    "models.employeeIdentities.deputy_uuid.placeholder": "DeputyアカウントID"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "josys-translation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2"
+  },
+  "scripts": {
+    "handleTranslations": "node --no-warnings src/index.js"
+  },
+  "devDependencies": {
+    "inquirer": "^9.2.10"
+  }
+}

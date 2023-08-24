@@ -1,0 +1,10 @@
+{
+  "en": {
+    "test.value.workspace": "null",
+    "camiForms:test.value.workspace": "null",
+    "camiForms:zoho_crm.newIntegration.locationDomain": "Data center region"
+  },
+  "ja": {
+    "common.appDetail.provision.managedApp.xero.flexColumn.updatedDateUtc": "Updated Date"
+  }
+}
