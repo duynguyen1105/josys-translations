@@ -1,0 +1,12 @@
+{
+  "en": {
+    "common.appDetail.provision.managedApp.pandadoc.flexColumn.workspaceName": "Workspace name",
+    "common.appDetail.provision.managedApp.pandadoc.flexColumn.dateCreated": "Created At",
+    "common.appDetail.provision.managedApp.pandadoc.flexColumn.dateModified": "Updated At"
+  },
+  "ja": {
+    "common.appDetail.provision.managedApp.pandadoc.flexColumn.workspaceName": "ワークスペース名",
+    "common.appDetail.provision.managedApp.pandadoc.flexColumn.dateCreated": "作成日",
+    "common.appDetail.provision.managedApp.pandadoc.flexColumn.dateModified": "更新日"
+  }
+}

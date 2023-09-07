@@ -1,0 +1,10 @@
+{
+  "en": {
+    "common.appDetail.provision.managedApp.bonusly.lastActiveAt": "Last Active At",
+    "common.appDetail.provision.managedApp.bonusly.flexColumn.createdAt": "Created At"
+  },
+  "ja": {
+    "common.appDetail.provision.managedApp.bonusly.lastActiveAt": "最終アクティブ日時",
+    "common.appDetail.provision.managedApp.bonusly.flexColumn.createdAt": "作成日時"
+  }
+}

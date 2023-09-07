@@ -1,34 +1,12 @@
 {
   "en": {
-    "common.appDetail.provision.managedApp.shortcut.invited": "Invited",
-    "common.appDetail.provision.managedApp.shortcut.disabled": "Inactive",
-    "common.appDetail.provision.managedApp.shortcut.flexColumn.createdAt": "Created At",
-    "common.appDetail.provision.managedApp.shortcut.flexColumn.twoFactorAuthActivated": "Two-Factor Authentication",
-    "models.employeeIdentities.shortcut_uuid.label": "Shortcut",
-    "models.employeeIdentities.shortcut_uuid.placeholder": "Shortcut Account ID",
-    "camiForms:direct.newIntegration.organizationId": "Organization ID",
-    "common.appDetail.provision.managedApp.direct.flexColumn.lastUsedAtStr": "Last Login",
-    "common.appDetail.provision.managedApp.direct.flexColumn.department": "Department",
-    "common.appDetail.provision.managedApp.workplace.flexColumn.jobTitle": "Title",
     "common.appDetail.provision.managedApp.officevibe.flexColumn.jobTitle": "Title",
     "common.appDetail.provision.managedApp.officevibe.flexColumn.managedGroups": "Managed Team",
-    "common.appDetail.provision.managedApp.officevibe.flexColumn.memberGroups": "Team",
-    "camiForms:logz.newIntegration.apiHost": "API Host"
+    "common.appDetail.provision.managedApp.officevibe.flexColumn.memberGroups": "Team"
   },
   "ja": {
-    "common.appDetail.provision.managedApp.shortcut.invited": "保留中",
-    "common.appDetail.provision.managedApp.shortcut.disabled": "非アクティブ",
-    "common.appDetail.provision.managedApp.shortcut.flexColumn.createdAt": "作成日時",
-    "common.appDetail.provision.managedApp.shortcut.flexColumn.twoFactorAuthActivated": "2要素認証",
-    "models.employeeIdentities.shortcut_uuid.label": "Shortcut",
-    "models.employeeIdentities.shortcut_uuid.placeholder": "ShortcutアカウントID",
-    "camiForms:direct.newIntegration.organizationId": "組織ID",
-    "common.appDetail.provision.managedApp.direct.flexColumn.lastUsedAtStr": "最終ログイン日時",
-    "common.appDetail.provision.managedApp.direct.flexColumn.department": "部署",
-    "common.appDetail.provision.managedApp.workplace.flexColumn.jobTitle": "役職",
     "common.appDetail.provision.managedApp.officevibe.flexColumn.jobTitle": "役職",
     "common.appDetail.provision.managedApp.officevibe.flexColumn.managedGroups": "管理チーム",
-    "common.appDetail.provision.managedApp.officevibe.flexColumn.memberGroups": "チーム",
-    "camiForms:logz.newIntegration.apiHost": "APIホスト"
+    "common.appDetail.provision.managedApp.officevibe.flexColumn.memberGroups": "チーム"
   }
 }

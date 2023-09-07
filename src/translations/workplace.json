@@ -1,0 +1,20 @@
+{
+  "en": {
+    "common.appDetail.provision.managedApp.workplace.claimed": "Activated",
+    "common.appDetail.provision.managedApp.workplace.deactivated": "Inactive",
+    "common.appDetail.provision.managedApp.workplace.flexColumn.jobTitle": "Title",
+    "common.appDetail.provision.managedApp.workplace.invited": "Invited",
+    "common.appDetail.provision.managedApp.workplace.statusTransitions.claimed": "Activated",
+    "common.appDetail.provision.managedApp.workplace.statusTransitions.deactivated": "Inactive",
+    "common.appDetail.provision.managedApp.workplace.statusTransitions.invited": "Invited"
+  },
+  "ja": {
+    "common.appDetail.provision.managedApp.workplace.claimed": "利用中",
+    "common.appDetail.provision.managedApp.workplace.deactivated": "非アクティブ",
+    "common.appDetail.provision.managedApp.workplace.flexColumn.jobTitle": "役職",
+    "common.appDetail.provision.managedApp.workplace.invited": "保留中",
+    "common.appDetail.provision.managedApp.workplace.statusTransitions.claimed": "利用中",
+    "common.appDetail.provision.managedApp.workplace.statusTransitions.deactivated": "非アクティブ",
+    "common.appDetail.provision.managedApp.workplace.statusTransitions.invited": "保留中"
+  }
+}

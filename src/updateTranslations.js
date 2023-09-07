@@ -23,9 +23,6 @@ const questions = [
         value: 'cami-forms',
       },
     ],
-    when(answers) {
-      return answers.locizeApp === 'ui'
-    },
   },
   {
     type: 'checkbox',

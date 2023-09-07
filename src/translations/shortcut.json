@@ -1,0 +1,18 @@
+{
+  "en": {
+    "common.appDetail.provision.managedApp.shortcut.invited": "Invited",
+    "common.appDetail.provision.managedApp.shortcut.disabled": "Inactive",
+    "common.appDetail.provision.managedApp.shortcut.flexColumn.createdAt": "Created At",
+    "common.appDetail.provision.managedApp.shortcut.flexColumn.twoFactorAuthActivated": "Two-Factor Authentication",
+    "models.employeeIdentities.shortcut_uuid.label": "Shortcut",
+    "models.employeeIdentities.shortcut_uuid.placeholder": "Shortcut Account ID"
+  },
+  "ja": {
+    "common.appDetail.provision.managedApp.shortcut.invited": "保留中",
+    "common.appDetail.provision.managedApp.shortcut.disabled": "非アクティブ",
+    "common.appDetail.provision.managedApp.shortcut.flexColumn.createdAt": "作成日時",
+    "common.appDetail.provision.managedApp.shortcut.flexColumn.twoFactorAuthActivated": "2要素認証",
+    "models.employeeIdentities.shortcut_uuid.label": "Shortcut",
+    "models.employeeIdentities.shortcut_uuid.placeholder": "ShortcutアカウントID"
+  }
+}

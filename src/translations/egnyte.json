@@ -1,0 +1,16 @@
+{
+  "en": {
+    "common.appDetail.provision.managedApp.egnyte.flexColumn.isServiceAccount": "Is ServiceAccount",
+    "common.appDetail.provision.managedApp.egnyte.flexColumn.createdDate": "Created At",
+    "common.appDetail.provision.managedApp.egnyte.flexColumn.lastModificationDate": "Updated At",
+    "common.appDetail.provision.managedApp.egnyte.flexColumn.lastActiveDate": "Last ActiveDate",
+    "common.appDetail.provision.managedApp.egnyte.flexColumn.authType": "AuthType"
+  },
+  "ja": {
+    "common.appDetail.provision.managedApp.egnyte.flexColumn.authType": "認証タイプ",
+    "common.appDetail.provision.managedApp.egnyte.flexColumn.createdDate": "作成日時",
+    "common.appDetail.provision.managedApp.egnyte.flexColumn.isServiceAccount": "サービスアカウント",
+    "common.appDetail.provision.managedApp.egnyte.flexColumn.lastActiveDate": "最終アクティブ日時",
+    "common.appDetail.provision.managedApp.egnyte.flexColumn.lastModificationDate": "更新日時"
+  }
+}

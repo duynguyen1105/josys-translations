@@ -1,0 +1,10 @@
+{
+  "en": {
+    "common.appDetail.provision.managedApp.direct.flexColumn.department": "Department",
+    "common.appDetail.provision.managedApp.direct.flexColumn.lastUsedAtStr": "Last Login"
+  },
+  "ja": {
+    "common.appDetail.provision.managedApp.direct.flexColumn.department": "部署",
+    "common.appDetail.provision.managedApp.direct.flexColumn.lastUsedAtStr": "最終ログイン日時"
+  }
+}
