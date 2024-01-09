@@ -1,0 +1,14 @@
+{
+  "en": {
+    "common.appDetail.provision.managedApp.zoho_desk.active": "Activated",
+    "common.appDetail.provision.managedApp.zoho_desk.invited": "Invited",
+    "common.appDetail.provision.managedApp.zoho_desk.inactive": "Deactivated",
+    "camiForms:zoho_desk.newIntegration.organization_name": "Organization Name"
+  },
+  "ja": {
+    "common.appDetail.provision.managedApp.zoho_desk.active": "利用中",
+    "common.appDetail.provision.managedApp.zoho_desk.invited": "保留中",
+    "common.appDetail.provision.managedApp.zoho_desk.inactive": "非アクティブ",
+    "camiForms:zoho_desk.newIntegration.organization_name": "組織名"
+  }
+}

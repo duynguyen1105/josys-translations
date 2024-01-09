@@ -1,0 +1,8 @@
+{
+  "en": {
+    "common.appDetail.provision.managedApp.logz.suspended": "Inactive"
+  },
+  "ja": {
+    "common.appDetail.provision.managedApp.logz.suspended": "非アクティブ"
+  }
+}

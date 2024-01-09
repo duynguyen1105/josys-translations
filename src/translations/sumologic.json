@@ -1,0 +1,20 @@
+{
+  "en": {
+    "camiForms:sumologic.newIntegration.server": "Server",
+    "camiForms:sumologic.newIntegration.accessId": "Access ID",
+    "camiForms:sumologic.newIntegration.accessKey": "Access Key",
+    "common.appDetail.provision.managedApp.sumologic.flexColumn.createdAt": "Created At",
+    "common.appDetail.provision.managedApp.sumologic.flexColumn.modifiedAt": "Updated At",
+    "common.appDetail.provision.managedApp.sumologic.flexColumn.isMfaEnabled": "MFA Enabled",
+    "common.appDetail.provision.managedApp.sumologic.flexColumn.lastLoginTimestamp": "Last Login"
+  },
+  "ja": {
+    "camiForms:sumologic.newIntegration.server": "サーバー",
+    "camiForms:sumologic.newIntegration.accessId": "アクセスID",
+    "camiForms:sumologic.newIntegration.accessKey": "アクセスキー",
+    "common.appDetail.provision.managedApp.sumologic.flexColumn.createdAt": "作成日時",
+    "common.appDetail.provision.managedApp.sumologic.flexColumn.modifiedAt": "更新日時",
+    "common.appDetail.provision.managedApp.sumologic.flexColumn.isMfaEnabled": "MFA有効",
+    "common.appDetail.provision.managedApp.sumologic.flexColumn.lastLoginTimestamp": "最終ログイン"
+  }
+}

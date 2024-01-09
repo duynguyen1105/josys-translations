@@ -1,0 +1,18 @@
+{
+  "en": {
+    "common.appDetail.provision.managedApp.kintone_global.flexColumn.group": "Group(Role)",
+    "common.appDetail.provision.managedApp.kintone_global.flexColumn.updatedAt": "Updated At",
+    "common.appDetail.provision.managedApp.kintone_global.flexColumn.createdAt": "Created At",
+    "models.employeeIdentities.kintone_global_login_name.label": "Kintone Global",
+    "models.employeeIdentities.kintone_global_login_name.placeholder": "Login Name",
+    "common.appDetail.provision.managedApp.kintone_global.inactive": "Deactivated"
+  },
+  "ja": {
+    "common.appDetail.provision.managedApp.kintone_global.flexColumn.group": "グループ（ロール）",
+    "common.appDetail.provision.managedApp.kintone_global.flexColumn.updatedAt": "更新日時",
+    "common.appDetail.provision.managedApp.kintone_global.flexColumn.createdAt": "作成日時",
+    "models.employeeIdentities.kintone_global_login_name.label": "Kintone グローバル版",
+    "models.employeeIdentities.kintone_global_login_name.placeholder": "管理者ログイン名",
+    "common.appDetail.provision.managedApp.kintone_global.inactive": "無効ユーザー"
+  }
+}

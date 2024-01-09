@@ -1,0 +1,14 @@
+{
+  "en": {
+    "common.appDetail.provision.managedApp.lever.active": "Activated",
+    "common.appDetail.provision.managedApp.lever.deactivated": "Deactivated",
+    "common.appDetail.provision.managedApp.lever.flexColumn.createdAt": "Created At",
+    "common.appDetail.provision.managedApp.lever.flexColumn.jobTitle": "Job Title"
+  },
+  "ja": {
+    "common.appDetail.provision.managedApp.lever.active": "利用中",
+    "common.appDetail.provision.managedApp.lever.deactivated": "非アクティブ",
+    "common.appDetail.provision.managedApp.lever.flexColumn.createdAt": "作成日",
+    "common.appDetail.provision.managedApp.lever.flexColumn.jobTitle": "役職"
+  }
+}

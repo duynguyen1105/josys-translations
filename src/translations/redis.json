@@ -1,0 +1,16 @@
+{
+  "en": {
+    "common.appDetail.provision.managedApp.redis.flexColumn.billing": "Billing emails",
+    "common.appDetail.provision.managedApp.redis.flexColumn.emailAlerts": "Alert emails",
+    "common.appDetail.provision.managedApp.redis.flexColumn.mfaEnabled": "MFA",
+    "common.appDetail.provision.managedApp.redis.flexColumn.operationalEmails": "Operational emails",
+    "common.appDetail.provision.managedApp.redis.flexColumn.signUp": "Created At"
+  },
+  "ja": {
+    "common.appDetail.provision.managedApp.redis.flexColumn.billing": "請求書メール",
+    "common.appDetail.provision.managedApp.redis.flexColumn.emailAlerts": "アラートメール",
+    "common.appDetail.provision.managedApp.redis.flexColumn.mfaEnabled": "MFA",
+    "common.appDetail.provision.managedApp.redis.flexColumn.operationalEmails": "運用メール",
+    "common.appDetail.provision.managedApp.redis.flexColumn.signUp": "作成日"
+  }
+}

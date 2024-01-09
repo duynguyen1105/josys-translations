@@ -1,0 +1,14 @@
+{
+  "en": {
+    "camiForms:mailchimp.newIntegration.audienceId": "Audience ID",
+    "camiForms:mailchimp.newIntegration.server": "Server",
+    "common.appDetail.provision.managedApp.mailchimp.flexColumn.timestampOpt": "Created At",
+    "common.appDetail.provision.managedApp.mailchimp.flexColumn.lastChanged": "Updated At"
+  },
+  "ja": {
+    "camiForms:mailchimp.newIntegration.audienceId": "オーディエンスID",
+    "camiForms:mailchimp.newIntegration.server": "サーバー",
+    "common.appDetail.provision.managedApp.mailchimp.flexColumn.timestampOpt": "作成日",
+    "common.appDetail.provision.managedApp.mailchimp.flexColumn.lastChanged": "更新日"
+  }
+}

@@ -94,11 +94,11 @@ const checkTranslationsByVersion = async ({
   if (enMissingKeys.length > 0 || jaMissingKeys.length > 0) {
     console.log(`👉 ${version}: Missing keys ⛔️`)
     enMissingKeys.forEach((e, i) => {
-      i === 0 && console.log(` EN: \n  {`)
-      console.log(`   ${e}${i !== enMissingKeys.length - 1 ? ',' : '\n  }'}`)
+      i === 0 && console.log(` "en": \n  {`)
+      console.log(`   ${e}${i !== enMissingKeys.length - 1 ? ',' : '\n  },'}`)
     })
     jaMissingKeys.forEach((e, i) => {
-      i === 0 && console.log(' JA: \n  {')
+      i === 0 && console.log(' "ja": \n  {')
       console.log(`   ${e}${i !== jaMissingKeys.length - 1 ? ',' : '\n  }\n'}`)
     })
   } else {

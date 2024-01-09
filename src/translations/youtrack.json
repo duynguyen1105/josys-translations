@@ -1,0 +1,12 @@
+{
+  "ja": {
+    "models.employeeIdentities.youtrack_username.label": "YouTrack",
+    "models.employeeIdentities.youtrack_username.placeholder": "YouTrackユーザー名",
+    "common.appDetail.provision.managedApp.youtrack.banned": "禁止ユーザ"
+  },
+  "en": {
+    "models.employeeIdentities.youtrack_username.label": "YouTrack",
+    "models.employeeIdentities.youtrack_username.placeholder": "YouTrack Username",
+    "common.appDetail.provision.managedApp.youtrack.banned": "Banned"
+  }
+}
