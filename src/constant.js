@@ -13,10 +13,9 @@ export const UI_ID = process.env.UI_ID
 export const UI_TOKEN = process.env.UI_TOKEN
 export const UI_NAMESPACE = 'common'
 export const UI_VERSION = {
-  QA2: 'qa2',
-  CAF_PSR: 'caf-psr',
   STAGING: 'staging',
   PRODUCTION: 'production',
+  LATEST: 'latest',
 }
 
 // Cami-forms

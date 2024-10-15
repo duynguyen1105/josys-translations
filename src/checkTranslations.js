@@ -137,7 +137,7 @@ export const checkTranslations = async () => {
         }
       }
 
-      for (const version of ['staging', 'production']) {
+      for (const version of ['latest', 'staging', 'production']) {
         await checkTranslationsByVersion({
           locizeApp,
           translation: { en: filterQa2En, ja: filterQa2Ja },
